@@ -1,0 +1,24 @@
+{
+  "name": "lab17_TCP",
+  "version": "1.0.0",
+  "description": "Lab17 - TCP - Peter Carmichael",
+  "main": "app.js",
+  "scripts": {
+    "test": "NODE_ENV=test jest --verbose",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcarmichael22/lab17_TCP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcarmichael22/lab17_TCP/issues"
+  },
+  "homepage": "https://github.com/pcarmichael22/lab17_TCP#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
